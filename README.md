@@ -3,4 +3,4 @@ Rock Paper Scissors game built with **vanilla JavaScript**, **HTML5**, and **CSS
 
 ## Live Demo
 
-🔗 [View Project](https://rock-paper-scissors-js-robinson.netlify.app/)
+🔗 [View Project](https://rock-paper-scissors-js-robinson.netlify.app)
